@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 407c93c52bd7ac24ea979ddff1f5f6ee
+guid: 775a25041dc748f47935e38cf7d797e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -767144287978662872
-    second: roll 4_0
+      213: -3556726886986091358
+    second: kurz_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: roll 4_0
+      name: kurz_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 0
-        width: 22
-        height: 21
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 824df87a55e8a55f0800000000000000
-      internalID: -767144287978662872
+      spriteID: 2a4fc1a9db7f3aec0800000000000000
+      internalID: -3556726886986091358
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      roll 4_0: -767144287978662872
+      kurz_0: -3556726886986091358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
