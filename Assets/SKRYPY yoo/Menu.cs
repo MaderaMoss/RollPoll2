@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuButtons : MonoBehaviour
 {
-    [Header("Nazwy scen - ZMIEÑ JE NA SWOJE!")]
+    
     public string sceneGame = "Game";           
     public string sceneSettings = "Settings";
     public string sceneCredits = "Credits";
@@ -36,7 +36,7 @@ public class MainMenuButtons : MonoBehaviour
 #endif
     }
 
-    // ================== POWRÓT DO MENU (dla Settings i Credits) ==================
+    // ================== POWRÓT DO MENU ==================
     public void BackToMainMenu()
     {
         SceneManager.LoadScene("Menu");  
