@@ -887,6 +887,7 @@ GameObject:
   - component: {fileID: 1349178364}
   - component: {fileID: 1349178363}
   - component: {fileID: 1349178362}
+  - component: {fileID: 1349178365}
   m_Layer: 5
   m_Name: Button (1)
   m_TagString: Untagged
@@ -995,6 +996,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1349178360}
   m_CullTransparentMesh: 1
+--- !u!114 &1349178365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1349178360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5a1f045628ba7e4f84cef4df95e5388, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MainMenuButtons
+  sceneGame: Game
+  sceneSettings: Settings
+  sceneCredits: Credits
 --- !u!1 &1579185476
 GameObject:
   m_ObjectHideFlags: 0
